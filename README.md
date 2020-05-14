@@ -1,37 +1,23 @@
 ## Welcome to RemisB Pages
 
+Hi, I'm freelance golang / java / fullstack software developer.
+
+I will not provide list of technologies I have used because that list will be too long and too technical. Better apploach would be to list what I'm working on now.
+
+## Random thoughts on My Experience, Skills and priorities
+
+* More than 25 years day to day in Software Development
+* Spent 15 years on Java / Java EE development. That is too much. I loved language, still do, but time come to switch to Golang.
+* Three last year I use golang as my main software development language as main backend and CLI applications.
+* Devops 
+* Microservices is only way for distributed application development.
+* Fullstack developer because browser is most spread common UI platform.
+* JavaScript only because it's only language supported in WebBrowser.
+* Devops because it's my main priority to stay relevant and productive.
+* Blockchain because, somebody asked, feels trendy and why not?
+
+
+
 You can use the [editor on GitHub](https://github.com/remisb/remisb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/remisb/remisb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
