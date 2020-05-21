@@ -1,4 +1,4 @@
-## Welcome to RemisB Pages
+## Welcome to Remigijus Baužys (RemisB) Pages
 
 Hi, I'm freelance golang / java / fullstack software developer.
 
